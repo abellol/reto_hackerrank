@@ -10,8 +10,6 @@
 A continuación se muestra la solución planteada al reto de la plataforma Hackerrank:
 
 ```python
-import math
-
 class Complex(object):
     def __init__(self, real, imaginary):
         self.real=real
